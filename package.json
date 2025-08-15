@@ -1,0 +1,34 @@
+{
+  "name": "mbot-js",
+  "version": "1.0.0",
+  "description": "'Mr roBOT' library for JavaScript",
+  "keywords": [
+    "hello",
+    "helloworld",
+    "print",
+    "javascript",
+    "library",
+    "mrrobot",
+    "elliotalderson",
+    "aidendev0",
+    "mbot.js"
+  ],
+  "homepage": "https://github.com/aidendev0/mbot-js",
+  "bugs": {
+    "url": "https://github.com/aidendev0/mbot-js/issues"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "Aiden_",
+    "email": "aiden0@zohomail.com",
+    "url": "https://github.com/aidendev0"
+  },
+  "main": "src/MBOT.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aidendev0/mbot.js/"
+  },
+  "dependencies": {
+    "mbot-js": "^1.0.0"
+  }
+}
