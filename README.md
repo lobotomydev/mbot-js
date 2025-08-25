@@ -11,7 +11,7 @@ Hello, World!
 
 ## Installation and Usage
 
-**Check** [wiki](https://github.com/aidendev0/mbot-js/wiki)
+**Check** [wiki](https://github.com/lobotomydev/mbot-js/wiki)
 
 ---
 
